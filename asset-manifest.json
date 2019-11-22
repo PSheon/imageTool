@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/imageTool/static/css/main.2d282820.chunk.css",
+    "main.js": "/imageTool/static/js/main.bab529ec.chunk.js",
+    "runtime-main.js": "/imageTool/static/js/runtime-main.9ee151a8.js",
+    "static/css/2.d17fde5c.chunk.css": "/imageTool/static/css/2.d17fde5c.chunk.css",
+    "static/js/2.ee837b63.chunk.js": "/imageTool/static/js/2.ee837b63.chunk.js",
+    "static/css/3.e3c8e7b3.chunk.css": "/imageTool/static/css/3.e3c8e7b3.chunk.css",
+    "static/js/3.6b60dc81.chunk.js": "/imageTool/static/js/3.6b60dc81.chunk.js",
+    "static/css/4.b1612db7.chunk.css": "/imageTool/static/css/4.b1612db7.chunk.css",
+    "static/js/4.9473b0c2.chunk.js": "/imageTool/static/js/4.9473b0c2.chunk.js",
+    "index.html": "/imageTool/index.html",
+    "precache-manifest.c8bfe29b60404f7c6eb6feb6325fdb7d.js": "/imageTool/precache-manifest.c8bfe29b60404f7c6eb6feb6325fdb7d.js",
+    "service-worker.js": "/imageTool/service-worker.js",
+    "static/media/index.css": "/imageTool/static/media/muli-latin-900italic.f99056b6.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ee151a8.js",
+    "static/css/2.d17fde5c.chunk.css",
+    "static/js/2.ee837b63.chunk.js",
+    "static/css/main.2d282820.chunk.css",
+    "static/js/main.bab529ec.chunk.js"
+  ]
+}
