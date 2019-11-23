@@ -3,6 +3,8 @@ import { Typography } from '@material-ui/core';
 import clsx from 'clsx';
 import { makeStyles } from '@material-ui/styles';
 
+import FUSE_SVG from 'assets/images/logos/fuse.svg';
+
 const useStyles = makeStyles(theme => ({
   root: {
     '& .logo-icon': {
@@ -31,11 +33,7 @@ function Logo() {
 
   return (
     <div className={clsx(classes.root, 'flex items-center')}>
-      <img
-        className="logo-icon"
-        src="/assets/images/logos/fuse.svg"
-        alt="logo"
-      />
+      <img className="logo-icon" src={FUSE_SVG} alt="logo" />
       <Typography
         className="text-16 ml-12 font-light logo-text"
         color="textPrimary"

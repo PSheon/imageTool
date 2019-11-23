@@ -16,33 +16,18 @@ import fileSaver from 'file-saver';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
 
 import LoadingSpinner from 'app/main/shared/LoadingSpinner';
+import JPG_ICON from 'assets/images/utils/jpg-icon.svg';
+import PNG_ICON from 'assets/images/utils/png-icon.svg';
+import SVG_ICON from 'assets/images/utils/svg-icon.svg';
 
 function renderMimeIcon(mimeType) {
   switch (mimeType) {
     case 'image/jpeg':
-      return (
-        <img
-          className="w-32"
-          src="/assets/images/utils/jpg-icon.svg"
-          alt="jpg icon"
-        />
-      );
+      return <img className="w-32" src={JPG_ICON} alt="jpg icon" />;
     case 'image/png':
-      return (
-        <img
-          className="w-32"
-          src="/assets/images/utils/png-icon.svg"
-          alt="PNG icon"
-        />
-      );
+      return <img className="w-32" src={PNG_ICON} alt="PNG icon" />;
     default:
-      return (
-        <img
-          className="w-32"
-          src="/assets/images/utils/svg-icon.svg"
-          alt="svg icon"
-        />
-      );
+      return <img className="w-32" src={SVG_ICON} alt="svg icon" />;
   }
 }
 
@@ -110,7 +95,6 @@ function CompressImageSection() {
     );
   }
 
-  console.log('isDesktopView, ', isDesktopView);
   if (isDesktopView) {
     return compressResult && !isCompressing ? (
       <FuseAnimateGroup
