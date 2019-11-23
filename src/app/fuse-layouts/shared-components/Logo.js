@@ -33,7 +33,7 @@ function Logo() {
     <div className={clsx(classes.root, 'flex items-center')}>
       <img
         className="logo-icon"
-        src="assets/images/logos/fuse.svg"
+        src="/assets/images/logos/fuse.svg"
         alt="logo"
       />
       <Typography

@@ -4,7 +4,7 @@ const initialState = {
   role: [], //guest
   data: {
     displayName: '好青年',
-    photoURL: 'assets/images/avatars/penguin.png',
+    photoURL: '/assets/images/avatars/penguin.png',
     email: 'penguin@gmail.com',
     shortcuts: ['影像處裡工具']
   }
