@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ffc0186aa650ca48224fcda9ac7c36b0",
+    "revision": "027de434cf7553b36b60179ad7831147",
     "url": "/imageTool/index.html"
   },
   {
-    "revision": "6615bb6f070e1eb852ed",
+    "revision": "bb97453e9139d07229e2",
     "url": "/imageTool/static/css/2.d17fde5c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imageTool/static/css/main.2d282820.chunk.css"
   },
   {
-    "revision": "6615bb6f070e1eb852ed",
-    "url": "/imageTool/static/js/2.a408423c.chunk.js"
+    "revision": "bb97453e9139d07229e2",
+    "url": "/imageTool/static/js/2.ee837b63.chunk.js"
   },
   {
     "revision": "81d68282c01eb38aaf5d",
