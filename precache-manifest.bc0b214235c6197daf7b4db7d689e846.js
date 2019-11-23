@@ -1,43 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "027de434cf7553b36b60179ad7831147",
+    "revision": "534e7d66bdea9d9fce7ac8bcf8803605",
     "url": "/imageTool/index.html"
   },
   {
-    "revision": "bb97453e9139d07229e2",
+    "revision": "9b0cadb6cea74545816f",
     "url": "/imageTool/static/css/2.d17fde5c.chunk.css"
   },
   {
-    "revision": "81d68282c01eb38aaf5d",
+    "revision": "ae7af329cf5b07175325",
     "url": "/imageTool/static/css/3.e3c8e7b3.chunk.css"
   },
   {
-    "revision": "fdbdfcded30a186ee75f",
+    "revision": "d78b4d13c3bf927611a9",
     "url": "/imageTool/static/css/4.b1612db7.chunk.css"
   },
   {
-    "revision": "c6008c33334dea3f35f2",
-    "url": "/imageTool/static/css/main.2d282820.chunk.css"
+    "revision": "26c5eab5f42b55d4e049",
+    "url": "/imageTool/static/css/main.da19cb34.chunk.css"
   },
   {
-    "revision": "bb97453e9139d07229e2",
-    "url": "/imageTool/static/js/2.ee837b63.chunk.js"
+    "revision": "9b0cadb6cea74545816f",
+    "url": "/imageTool/static/js/2.310443df.chunk.js"
   },
   {
-    "revision": "81d68282c01eb38aaf5d",
-    "url": "/imageTool/static/js/3.6b60dc81.chunk.js"
+    "revision": "ae7af329cf5b07175325",
+    "url": "/imageTool/static/js/3.61fc6153.chunk.js"
   },
   {
-    "revision": "fdbdfcded30a186ee75f",
-    "url": "/imageTool/static/js/4.9473b0c2.chunk.js"
+    "revision": "d78b4d13c3bf927611a9",
+    "url": "/imageTool/static/js/4.5099373f.chunk.js"
   },
   {
-    "revision": "c6008c33334dea3f35f2",
-    "url": "/imageTool/static/js/main.abcc4c9c.chunk.js"
+    "revision": "26c5eab5f42b55d4e049",
+    "url": "/imageTool/static/js/main.94897858.chunk.js"
   },
   {
-    "revision": "6d6badb6bbd88e8b59bf",
-    "url": "/imageTool/static/js/runtime-main.9ee151a8.js"
+    "revision": "7c06715a14c3b9b9d0ca",
+    "url": "/imageTool/static/js/runtime-main.d00e0c95.js"
+  },
+  {
+    "revision": "a9e04ed8c4efdef9ee37f7c47efc43b6",
+    "url": "/imageTool/static/media/fuse.a9e04ed8.svg"
+  },
+  {
+    "revision": "06cfaed39aa5ae37d1ef709d15a25920",
+    "url": "/imageTool/static/media/jpg-icon.06cfaed3.svg"
   },
   {
     "revision": "1dfc66c75d0bc90cfbffb5076a7c6f90",
@@ -150,5 +158,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f99056b607ef79e25593f04506f5f744",
     "url": "/imageTool/static/media/muli-latin-900italic.f99056b6.woff2"
+  },
+  {
+    "revision": "ce1e7079d859a4a2a6fe13a1dc31aeca",
+    "url": "/imageTool/static/media/png-icon.ce1e7079.svg"
+  },
+  {
+    "revision": "b0009b89554309b2ab2a01c30db247c6",
+    "url": "/imageTool/static/media/svg-icon.b0009b89.svg"
   }
 ]);
