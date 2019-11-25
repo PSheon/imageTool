@@ -1,4 +1,4 @@
-importScripts("/imageTool/precache-manifest.23e3c344904a22a819f20996cbd10f6f.js", "/imageTool/workbox-v4.3.1/workbox-sw.js");
+importScripts("/imageTool/precache-manifest.1661e4aab16ecac007796350d1f70cb3.js", "/imageTool/workbox-v4.3.1/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/imageTool/workbox-v4.3.1"});
 /* eslint-disable no-undef */
 // See https://developers.google.com/web/tools/workbox/guides/configure-workbox
