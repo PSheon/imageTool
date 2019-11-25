@@ -1,7 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42dbea7eace3b0fce1843cb19e1c2087",
+    "revision": "2aefc906a75740913cdc08cd44eab077",
     "url": "/imageTool/index.html"
+  },
+  {
+    "url": "/imageTool/precache-manifest.eb696631c357e57305189776b3cdd7a8.js"
+  },
+  {
+    "revision": "62c56fbe75c2d698df3c53a72349ed17",
+    "url": "/imageTool/service-worker.js"
   },
   {
     "revision": "79b35f8554bcb031fbb4",
@@ -12,12 +19,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imageTool/static/css/3.e3c8e7b3.chunk.css"
   },
   {
-    "revision": "c8354313bfc97da94aeb",
+    "revision": "c64668cd6166eecb2cbe",
     "url": "/imageTool/static/css/4.b1612db7.chunk.css"
   },
   {
-    "revision": "65d95fad0cd0a1c23a8d",
-    "url": "/imageTool/static/css/main.50c173eb.chunk.css"
+    "revision": "203b7530aacfd5c6ec62",
+    "url": "/imageTool/static/css/main.72207b6b.chunk.css"
   },
   {
     "revision": "79b35f8554bcb031fbb4",
@@ -28,16 +35,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imageTool/static/js/3.b93ce142.chunk.js"
   },
   {
-    "revision": "c8354313bfc97da94aeb",
-    "url": "/imageTool/static/js/4.9ad56198.chunk.js"
+    "revision": "c64668cd6166eecb2cbe",
+    "url": "/imageTool/static/js/4.bce15c5c.chunk.js"
   },
   {
-    "revision": "65d95fad0cd0a1c23a8d",
-    "url": "/imageTool/static/js/main.ca06133d.chunk.js"
+    "revision": "203b7530aacfd5c6ec62",
+    "url": "/imageTool/static/js/main.a85312a9.chunk.js"
   },
   {
-    "revision": "edf28bee6e1f16d42a39",
-    "url": "/imageTool/static/js/runtime-main.c99e71f3.js"
+    "revision": "c520b0d761259a31066a",
+    "url": "/imageTool/static/js/runtime-main.0978dbc5.js"
   },
   {
     "revision": "a9e04ed8c4efdef9ee37f7c47efc43b6",
