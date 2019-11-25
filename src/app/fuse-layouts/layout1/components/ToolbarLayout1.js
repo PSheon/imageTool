@@ -16,6 +16,7 @@ const useStyles = makeStyles(theme => ({
       'linear-gradient(180deg, rgba(44,48,60,.9) 44%, rgba(44,48,60,.43) 73%, rgba(44,48,60,0))'
   },
   toolbar: {
+    minHeight: '52px',
     backgroundColor: '#3e3e3e'
   },
   separator: {
@@ -44,12 +45,12 @@ function ToolbarLayout1(props) {
         <Toolbar className={clsx(classes.toolbar, 'p-0 rounded-8')}>
           {config.navbar.display && config.navbar.position === 'left' && (
             <Hidden lgUp>
-              <NavbarMobileToggleButton className="w-64 h-64 p-0" />
+              <NavbarMobileToggleButton className="w-64 h-48 sm:h-64 p-0" />
               <div className={classes.separator} />
             </Hidden>
           )}
 
-          <div className="flex flex-0 pl-16 h-64">
+          <div className="flex flex-0 pl-16 h-48 sm:h-64">
             <Logo />
           </div>
 

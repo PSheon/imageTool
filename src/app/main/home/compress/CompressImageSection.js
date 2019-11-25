@@ -211,9 +211,14 @@ function CompressImageSection() {
           />
         </div>
         <div className="flex flex-col justify-center items-center p-12 w-full">
-          <Typography className="text-20 mb-16" color="textSecondary">
-            {compressResult.name} 壓縮完成
-          </Typography>
+          <div className="w-full overflow-x-scroll">
+            <Typography
+              className="text-20 mb-16 whitespace-no-wrap"
+              color="textSecondary"
+            >
+              {compressResult.name} 壓縮完成
+            </Typography>
+          </div>
           <LinearProgress
             variant="determinate"
             value={100}

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Typography } from '@material-ui/core';
 import clsx from 'clsx';
 import { makeStyles } from '@material-ui/styles';
@@ -33,7 +34,9 @@ function Logo() {
 
   return (
     <div className={clsx(classes.root, 'flex items-center')}>
-      <img className="logo-icon" src={FUSE_SVG} alt="logo" />
+      <Link to="/">
+        <img className="logo-icon" src={FUSE_SVG} alt="logo" />
+      </Link>
       <Typography
         className="text-16 ml-12 font-light logo-text"
         color="textPrimary"

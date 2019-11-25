@@ -46,6 +46,6 @@ workbox.routing.registerRoute(
   })
 );
 
-workbox.routing.registerRoute('/', workbox.strategies.networkFirst());
+workbox.routing.registerRoute('/imageTool/', workbox.strategies.networkFirst());
 // We need this in Webpack plugin (refer to swSrc option): https://developers.google.com/web/tools/workbox/modules/workbox-webpack-plugin#full_injectmanifest_config
 workbox.precaching.precacheAndRoute(self.__precacheManifest);

@@ -1,11 +1,11 @@
 {
   "name": "影像處裡工具",
   "short_name": "影像工具",
-  "theme_color": "#fafafa",
-  "background_color": "#fafafa",
+  "theme_color": "#323845",
+  "background_color": "#323845",
   "display": "standalone",
-  "Scope": "/",
-  "start_url": "/",
+  "Scope": "/imageTool",
+  "start_url": "index.html",
   "icons": [
     {
       "src": "favicon.ico",
