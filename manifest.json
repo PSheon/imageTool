@@ -4,8 +4,8 @@
   "theme_color": "#323845",
   "background_color": "#323845",
   "display": "standalone",
-  "Scope": "/imageTool",
-  "start_url": "/imageTool",
+  "Scope": "https://psheon.github.io/imageTool/",
+  "start_url": "/",
   "icons": [
     {
       "src": "favicon.ico",
